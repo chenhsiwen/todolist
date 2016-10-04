@@ -8,14 +8,11 @@ body {
 	background-color: #EEE;
 	border-radius: 5px; 
 	font-family:  "微軟正黑體", sans-serif;
-	 -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    list-style-type: square;
-    margin: auto;
-    word-break: break-all;
+	-webkit-touch-callout: none;
+  	-webkit-user-select: none;
+        list-style-type: square;
+        margin: auto;
+        word-break: break-all;
 }
 #top {
 	background-color: #DDD;
